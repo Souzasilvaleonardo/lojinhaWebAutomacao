@@ -25,7 +25,7 @@ public class ProdutoTest {
 
 
         // Navegar para a página da Lojinha Web
-        this.navegador.get("http://165.227.93.41/lojinha-web/v2/");
+        this.navegador.get("http://165.227.93.41/lojinha-web-bugada/v2/");
     }
 
     @Test
