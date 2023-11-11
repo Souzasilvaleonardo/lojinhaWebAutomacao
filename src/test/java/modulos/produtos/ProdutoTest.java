@@ -32,8 +32,6 @@ public class ProdutoTest {
     @DisplayName("Nao e permitido resgistrar um produto igual a zero")
     public void testNaoEPermitidoRegistrarProdutoComValorIgualAZero() {
 
-
-        // Fazer Login
         String mensagemApresentada = new LoginPage(navegador)
                 .informarOUsuario("admin")
                 .informarASenha("admin")

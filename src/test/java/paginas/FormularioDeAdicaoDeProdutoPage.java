@@ -40,8 +40,4 @@ public class FormularioDeAdicaoDeProdutoPage {
         return new FormularioDeEdicaoDeProdutoPage(navegador);
     }
 
-
-
-    //<div class="toast rounded" style="top: 0px; transition: transform 0.2s ease 0s, opacity 0.2s ease 0s;">Produto adicionado com sucesso</div>
-
 }
