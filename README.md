@@ -27,7 +27,9 @@ Exemplo:
 
 *@BeforeEach
 public void beforeEach() {
+
 // Configurar o WebDriver e abrir o navegador
+
 }*
 
 
@@ -40,7 +42,9 @@ O método `afterEach` é responsável por encerrar o navegador após cada teste.
 
 @AfterEach
 public void afterEach() {
+
 // Encerrar o navegador
+
 }*
 
 
